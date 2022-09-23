@@ -31,7 +31,10 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ## 🛠️ Projeto no ar
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 270649559043932b3d7d687e8c91bd0ece57620e
 * [Netlify](https://calculator-em-react.netlify.app)
  
 ## 🎁 Expressões de gratidão
