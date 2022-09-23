@@ -3,7 +3,6 @@
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=PROJETO%20FINALIZADO&color=GREEN&style=for-the-badge)
  
 --- 
-
 ## 📋 Índice
 
 - [Sobre](#projeto-final-Calculadora)
@@ -32,7 +31,8 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ## 🛠️ Projeto no ar
 
-* [Netlify](https://neonbank.netlify.app)
+
+* [Netlify](https://calculator-em-react.netlify.app)
  
 ## 🎁 Expressões de gratidão
 
