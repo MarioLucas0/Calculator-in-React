@@ -34,7 +34,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ## 🛠️ Projeto no ar
 
-* [Netlify](https://calculator-em-react.netlify.app)
+* [Netlify](https://calculator-em-react2.netlify.app/)
  
 ## 🎁 Expressões de gratidão
 
